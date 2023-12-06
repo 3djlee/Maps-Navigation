@@ -1,4 +1,4 @@
-// Daniel Lee z5218637
+// Daniel Lee 
 // This file is for the implementation of the Counter ADT
 // The program can create counter, free and make array
 
